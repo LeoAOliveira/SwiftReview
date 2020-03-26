@@ -32,6 +32,4 @@ let exclamationMark: Character = "!"
 completeName.append(exclamationMark)
 
 
-
-
 //: [Next](@next)
